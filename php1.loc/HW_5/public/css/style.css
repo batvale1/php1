@@ -46,6 +46,7 @@ animation: movement 0.2s infinite;
 .gallery {
 	display: flex;
 	justify-content: start;
+	flex-wrap: wrap;
 }
 
 .gallery-img-wrap {
